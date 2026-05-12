@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# LibreOffice / Excel lock files
+.~lock.*#
+~$*.xlsx
+~$*.docx
+
+# Internal session files — not part of the deliverable
+CLAUDE.md
+WARP-HANDOFF.md
+
+# Source materials provided by the recruiter
+Assignment _ Content Manager.pdf
+Zuora-AI-Product-Marketing-Brief.docx
+
+# Pre-existing research materials
+zuora-brand-voice-analysis.md
+zuora-brand-voice-analysis.pdf
+
+# Supporting research (kept locally, not shipped)
+context/
+
+# Internal scaffolding from earlier iterations
+working-notes/
+
+# Junk
+missfont.log

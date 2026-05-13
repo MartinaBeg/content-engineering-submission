@@ -1,0 +1,101 @@
+Tier,Keyword,Category,Monthly volume (US),Competition,CPC (USD),Intent,Funnel stage,Recommended use case,Notes
+T1,explainable AI in finance,Explainable & Auditable AI,6600,0.18,6.05,Commercial,MOFU,"Landing page H1, pillar page","Anchor target. Low competition, no Q2C vendor in top 10."
+T1,AI in finance,AI for Finance (broad),4400,0.66,7.88,Informational,TOFU,"Pillar page, blog",Head term. SERP dominated by editorial content.
+T1,finance AI,AI for Finance (broad),4400,0.66,7.88,Informational,TOFU,"Pillar page, blog",Synonym of above; cover same intent.
+T1,AI for finance,AI for Finance (broad),2400,0.66,7.88,Commercial,MOFU,"Landing page H2, solution page","High commercial value. Use in body, H2s."
+T1,AI for accounting,AI for Accounting,1600,0.68,9.08,Commercial,MOFU,"Solution page, blog cluster",Strong secondary. Mix of educational + product SERP.
+T1,accounting AI,AI for Accounting,3600,0.68,9.08,Informational,TOFU,"Pillar page, blog",Head term for accounting cluster.
+T1,AI in accounting,AI for Accounting,2400,0.68,9.08,Informational,TOFU,"Pillar page, blog",Same intent as 'accounting AI'.
+T1,AI in financial services,AI for Finance (broad),1300,0.48,9.29,Commercial,MOFU,"Solution page, blog",Banking-leaning intent. Address in FAQ + related content.
+T1,AI agents in finance,AI Agents in Finance,590,0.41,11.47,Commercial,BOFU,"Landing page H1, solution page",Direct match to product. Moderate competition.
+T1,AI agents for finance,AI Agents in Finance,210,0.41,12.01,Commercial,BOFU,"Landing page H1, ad copy",Exact phrase the assignment uses. Must be on page.
+T1,AI invoice automation,AI Invoice & AP Automation,390,0.25,22.71,Commercial,BOFU,"Capability page, ad copy",Low competition + very high CPC. Strong quick win.
+T1,AI billing,AI Billing & Subscription,210,0.14,14.25,Commercial,BOFU,"Capability page, ad copy",Very low competition. Outranks BillingPlatform at scale.
+T1,artificial intelligence in finance,AI for Finance (broad),1900,0.66,7.88,Informational,TOFU,"Pillar page, glossary",Long-form synonym. Same intent as 'AI in finance'.
+T1,AI in accounting and finance,AI for Accounting,880,0.54,9.38,Commercial,MOFU,"Pillar page, solution page",Bridges accounting + finance clusters.
+T1,AI for financial services,AI for Finance (broad),720,0.48,9.29,Commercial,MOFU,Solution page,Lower-volume variant of 'AI in financial services'.
+T2,AI for financial analysis,AI for Finance (broad),1000,0.62,9.87,Commercial,MOFU,"Blog, capability page",Analyst use cases. Map to allocations + audit response.
+T2,AI applications in finance,AI for Finance (broad),390,0.34,8.49,Informational,TOFU,"Blog, pillar page",Low competition educational query.
+T2,AI use cases in finance,AI for Finance (broad),170,0.4,9.74,Informational,TOFU,"Blog, pillar page",Strong fit for case-study + capability content.
+T2,AI cfo,AI for CFO / Finance Leaders,390,0.75,13.67,Commercial,MOFU,"Solution page, persona LP",Persona-led search. High CPC.
+T2,AI for cfo,AI for CFO / Finance Leaders,90,0.65,21.23,Commercial,BOFU,"Persona LP, ad copy",Premium CPC = strong commercial intent.
+T2,agentic AI in finance,Agentic AI for Finance,140,0.83,9.95,Commercial,BOFU,"Landing page, blog",Direct category claim. Worth claiming first.
+T2,agentic AI finance,Agentic AI for Finance,90,0.84,146.56,Commercial,BOFU,"Landing page, ad copy","Highest CPC ($146) in cluster. Small audience, real budget."
+T2,agentic AI in financial services,Agentic AI for Finance,140,0.57,15.89,Commercial,MOFU,"Solution page, blog",Broader services framing.
+T2,agentic AI financial services,Agentic AI for Finance,90,0.26,10.07,Commercial,MOFU,"Blog, capability page",Low competition; emerging term.
+T2,agentic AI in banking,Agentic AI for Finance,170,0.44,12.18,Commercial,MOFU,Blog cluster,Adjacent vertical. Banking case studies.
+T2,AI for finance and accounting,AI for Finance (broad),170,0.74,15.78,Commercial,MOFU,"Pillar page, blog",High CPC + bridges two clusters.
+T2,AI tools for finance,AI for Finance (broad),260,0.47,8.92,Commercial,MOFU,"Listicle blog, comparison page",Comparison intent. Counter against AI-native tools.
+T2,AI tools for accounting,AI for Accounting,480,0.19,17.7,Commercial,MOFU,"Listicle blog, comparison page",Very low competition. Quick win.
+T2,AI accounting software,AI for Accounting,1600,0.36,18.7,Commercial,BOFU,"Solution page, comparison content",Strong commercial fit.
+T2,AI accountant,AI for Accounting,880,0.68,9.08,Informational,MOFU,"Blog, persona content",Persona-as-search-term.
+T3,AI bookkeeping,AI for Accounting,1000,0.76,17.72,Commercial,MOFU,Adjacent blog content,SMB-flavored; weaker fit for enterprise Zuora.
+T3,AI cpa,AI for Accounting,1000,0.07,2.76,Informational,TOFU,"Blog, thought leadership",Very low competition. Professional-services angle.
+T3,AI for finance teams,AI for CFO / Finance Leaders,70,0.47,11.38,Commercial,BOFU,Landing page H2,Niche but exact-match to the audience.
+T3,AI for finance leaders,AI for CFO / Finance Leaders,20,0.61,9.17,Commercial,BOFU,"Persona LP, email subject",Low vol but exact audience match.
+T3,finance AI agent,AI Agents in Finance,140,0.61,9.83,Commercial,BOFU,"Landing page, sales asset",Singular form. Same intent as plural.
+T3,finance AI agents,AI Agents in Finance,70,0.61,9.83,Commercial,BOFU,"Landing page, sales asset","Plural form, same intent."
+T3,AI agent for finance,AI Agents in Finance,90,0.41,12.01,Commercial,BOFU,"Landing page, ad copy",Singular variant.
+T3,AI in corporate finance,AI for Finance (broad),170,0.71,9.15,Commercial,MOFU,"Blog, enterprise content",Enterprise-leaning.
+T3,intelligent automation in finance,Finance Automation (general),210,0.33,0,Commercial,MOFU,"Solution page, blog",Process-automation framing. Map to Zuora workflows.
+T1,what is agentic AI,Question / PAA,22200,0.65,4.14,Informational,TOFU,"Glossary, FAQ schema, blog",Massive PAA candidate. Own the definition.
+T1,what is an AI agent,Question / PAA,9900,0.54,3.72,Informational,TOFU,"Glossary, FAQ schema, blog",Definitional. Strong PAA capture potential.
+T2,what are AI agents,Question / PAA,5400,0.58,4.33,Informational,TOFU,"Glossary, FAQ schema",Plural form of definitional query.
+T2,how does agentic AI work,Question / PAA,260,0.73,4.16,Informational,TOFU,"Blog, FAQ schema",Mechanism explanation. Fit for product overview.
+T2,what does agentic AI mean,Question / PAA,390,0.6,2.75,Informational,TOFU,"Glossary, FAQ schema",Definitional variant.
+T2,how do AI agents work,Question / PAA,320,0.45,3.64,Informational,TOFU,"Blog, FAQ schema",Mechanism query. Fit for explainability content.
+T2,what is explainable AI,Question / PAA,390,0.07,2.38,Informational,TOFU,"Glossary, FAQ schema",Very low competition. Anchor for explainability content.
+T3,how is AI used in finance,Question / PAA,170,0.24,4.8,Informational,TOFU,"Blog, FAQ schema",Educational. Good FAQ entry.
+T3,how to use AI in finance,Question / PAA,140,0.89,5.66,Informational,TOFU,"How-to blog, FAQ",High competition but high intent.
+T3,future of AI in finance,Question / PAA,170,0.64,5.69,Informational,TOFU,Thought leadership blog,Vision content. Pair with proprietary research.
+T3,how AI reduces manual reconciliation work for finance teams,Question / PAA,30,0,0,Commercial,BOFU,"FAQ schema, capability blog","Direct PAA, perfect Zuora fit. Free territory."
+T3,how to evaluate AI in finance for real value,Question / PAA,10,0,0,Commercial,MOFU,"FAQ schema, eval guide",Tied to Harris Poll 28% gap.
+T3,how to evaluate readiness for AI-driven finance transformation,Question / PAA,10,0,0,Commercial,MOFU,"Eval guide, sales asset",Buyer-readiness content.
+T3,can an AI assisted document review work for finance,Question / PAA,50,0,0,Informational,MOFU,"Blog, capability content",Maps to audit-response capability.
+T3,how to use AI for accounting,Question / PAA,70,0.79,6.99,Informational,MOFU,How-to blog,Practitioner intent.
+T1,AI audit,AI Audit & Governance,880,0.59,8.36,Informational,MOFU,"Blog, glossary, pillar page",Audit term has dual meaning — context as 'AI audit defensibility'.
+T2,AI auditing,AI Audit & Governance,390,0.59,8.36,Commercial,MOFU,"Blog, capability content",Process framing.
+T2,AI auditor,AI Audit & Governance,390,0.59,8.36,Commercial,MOFU,"Blog, persona page",Persona-framed. Address auditor audience.
+T2,AI in auditing,AI Audit & Governance,260,0.59,8.36,Informational,MOFU,"Blog, FAQ schema",Same cluster.
+T2,AI governance auditing,AI Audit & Governance,1300,0,0,Commercial,MOFU,"Solution page, blog",Zero competition. Governance angle.
+T3,AI audits,AI Audit & Governance,110,0.59,8.36,Informational,MOFU,Blog,Plural variant.
+T3,AI audit tools,AI Audit & Governance,110,0.61,11.9,Commercial,BOFU,Comparison content,Tools-evaluation intent.
+T3,AI auditability,AI Audit & Governance,110,0.59,8.36,Informational,MOFU,"Blog, glossary",Direct match to Zuora 'audit-defensible' claim.
+T3,artificial intelligence in auditing,AI Audit & Governance,260,0.59,8.36,Informational,TOFU,"Blog, thought leadership",Long-form synonym.
+T3,AI audit best practices,AI Audit & Governance,170,0,0,Commercial,MOFU,Best-practices blog,Zero competition. Strong fit for thought leadership.
+T3,what is an AI audit,Question / PAA,110,0.27,4.8,Informational,TOFU,"Glossary, FAQ schema",Definitional.
+T2,explainable AI methods,Explainable & Auditable AI,9900,0.04,0,Informational,TOFU,"Blog, technical content","High volume, near-zero competition. Educational angle."
+T2,AI explainability,Explainable & Auditable AI,720,0.1,3.89,Informational,MOFU,"Glossary, blog",Low competition; direct Zuora pillar fit.
+T3,explainable AI tools,Explainable & Auditable AI,320,0.2,5,Commercial,MOFU,Comparison blog,Tools-evaluation.
+T3,AI interpretability,Explainable & Auditable AI,320,0.03,4.11,Informational,TOFU,"Glossary, blog",Technical-leaning. Adjacent vocab.
+T3,interpretable AI,Explainable & Auditable AI,320,0.03,0,Informational,TOFU,"Glossary, blog",Synonym of above.
+T1,invoice automation,AI Invoice & AP Automation,2400,0.52,39.79,Commercial,BOFU,"Capability page, ad copy",Very high CPC. Strong commercial intent.
+T1,AP automation,AI Invoice & AP Automation,3600,0.52,79.76,Commercial,BOFU,"Capability page, ad copy",$80 CPC; head AP term.
+T1,accounts payable automation,AI Invoice & AP Automation,3600,0.52,79.76,Commercial,BOFU,"Capability page, ad copy","Same intent, different phrasing."
+T2,AP automation software,AI Invoice & AP Automation,2900,0.1,84.47,Commercial,BOFU,"Solution page, comparison content","Low competition, ultra-high CPC."
+T2,invoice automation software,AI Invoice & AP Automation,1300,0.12,72.94,Commercial,BOFU,"Solution page, comparison content",Low competition. Strong fit.
+T2,invoice processing,AI Invoice & AP Automation,1900,0.29,24.06,Commercial,MOFU,Capability page,Broader term covering AP and AR.
+T2,invoice processing software,AI Invoice & AP Automation,1300,0.1,52.32,Commercial,BOFU,Solution page,Low competition + high CPC.
+T2,automated invoice processing,AI Invoice & AP Automation,1300,0.47,68.37,Commercial,BOFU,Capability page,Process framing.
+T3,AP invoice automation,AI Invoice & AP Automation,1000,0.24,86.02,Commercial,BOFU,"Capability page, ad copy",Highest CPC in AP cluster.
+T3,AI powered AP automation,AI Invoice & AP Automation,590,0.15,71.86,Commercial,BOFU,Solution page,Direct match (despite 'AI-powered' phrasing in copy).
+T3,AI accounts payable,AI Invoice & AP Automation,480,0.27,52.28,Commercial,BOFU,Solution page,Direct match.
+T3,AI in accounts payable,AI Invoice & AP Automation,480,0.08,39.68,Commercial,BOFU,Solution page,Very low competition.
+T3,AI for accounts receivable,AI Invoice & AP Automation,50,0.75,18.33,Commercial,BOFU,Capability page,AR cluster; small but exact fit.
+T3,invoice processing automation,AI Invoice & AP Automation,590,0.47,68.37,Commercial,MOFU,Capability page,Process-led framing.
+T3,invoice management automation,AI Invoice & AP Automation,480,0.02,0,Commercial,MOFU,Capability page,Zero competition. Strong quick-win.
+T3,AI billing software,AI Billing & Subscription,140,0.54,27.37,Commercial,BOFU,"Capability page, ad copy",Direct vendor-evaluation.
+T3,AI in billing,AI Billing & Subscription,30,0.8,9.05,Informational,MOFU,Blog,High competition but on-topic.
+T3,automated billing software,AI Billing & Subscription,720,0.16,79.22,Commercial,BOFU,"Capability page, ad copy",Adjacent but high CPC.
+T3,AI revenue management,AI Billing & Subscription,210,0.51,12,Commercial,MOFU,Solution page,Pricing-and-packaging adjacent.
+T2,finance automation software,Finance Automation (general),480,0.12,112.84,Commercial,BOFU,"Solution page, comparison content",Lowest competition + highest CPC in finance-automation cluster.
+T3,automating finance,Finance Automation (general),170,0.41,18.42,Commercial,MOFU,"Blog, capability page",Process-led framing.
+T3,accounting automation software,Finance Automation (general),720,0.09,31.57,Commercial,BOFU,Solution page,Very low competition.
+T3,automated accounting software,Finance Automation (general),720,0.09,31.57,Commercial,BOFU,Solution page,Synonym.
+T3,financial services automation,Finance Automation (general),260,0.01,4.85,Commercial,MOFU,Solution page,Near-zero competition.
+T3,intelligent automation financial services,Finance Automation (general),170,0.33,0,Commercial,MOFU,"Blog, solution page",Process-led.
+T3,intelligent automation in banking,Finance Automation (general),170,0.46,10.29,Commercial,MOFU,Adjacent blog,Banking-vertical adjacent.
+T3,AI for revenue operations,Revenue Recognition / ASC 606,10,0.99,12.42,Commercial,BOFU,"Body copy, positioning",Sub-10 volume but exact RevOps fit.
+T3,AI for accounts payable automation,AI Invoice & AP Automation,20,0,0,Commercial,BOFU,Body copy,Strategic. AP-specific phrasing.
+T3,finance AI assistant,AI for CFO / Finance Leaders,20,0.74,7.83,Commercial,BOFU,"Body copy, product naming",Niche but persona-led.
+T3,AI for revenue recognition,Revenue Recognition / ASC 606,10,0,0,Commercial,BOFU,"Body copy, positioning",Sub-10 volume but exact match to Zuora product.

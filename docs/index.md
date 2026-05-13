@@ -11,4 +11,3 @@ The agent and skill files referenced in Part 3 live in [`artifacts/agent/`](arti
 ## Supporting research
 
 - [Keyword research table (CSV, browser view)](artifacts/zuora-keyword-research.csv) — 100 SEO keywords from SEMrush, May 2026.
-- [Keyword research workbook (Excel download)](artifacts/zuora-keyword-research.xlsx) — same dataset in spreadsheet format.

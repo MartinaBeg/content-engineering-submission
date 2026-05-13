@@ -15,4 +15,3 @@ The deployable agent and skill files referenced in Part 3 live in [`docs/artifac
 ## Supporting research
 
 - [Keyword research table (CSV, browser view)](docs/artifacts/zuora-keyword-research.csv) — 100 SEO keywords from SEMrush (May 2026), categorized by use case, intent, and priority tier. Drives the keyword strategy across the website, blog, FAQ, and ads.
-- [Keyword research workbook (Excel download)](docs/artifacts/zuora-keyword-research.xlsx) — same dataset in spreadsheet format.
